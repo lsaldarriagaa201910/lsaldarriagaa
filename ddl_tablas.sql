@@ -12,3 +12,4 @@ tipo varchar2(50),
 nombre varchar2(50)
 );
 tablespace tmp;
+delete from clientes;
